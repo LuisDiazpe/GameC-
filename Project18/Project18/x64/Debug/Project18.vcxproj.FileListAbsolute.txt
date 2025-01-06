@@ -1,0 +1,4 @@
+D:\ciclo 1\ejercicios intr Algoritmos\Project18\Project18\x64\Debug\Project18.vcxproj.AssemblyReference.cache
+D:\ciclo 1\ejercicios intr Algoritmos\Project18\Project18\x64\Debug\Project18.MyForm.resources
+D:\ciclo 1\ejercicios intr Algoritmos\Project18\Project18\x64\Debug\Project18.vcxproj.GenerateResource.cache
+D:\ciclo 1\ejercicios intr Algoritmos\Project18\Project18\x64\Debug\Project18.pantalla.resources

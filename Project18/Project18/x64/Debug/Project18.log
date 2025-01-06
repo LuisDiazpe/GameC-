@@ -1,0 +1,58 @@
+﻿  MyForm.cpp
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Entidad.h(37,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Entidad.h(40,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\class_bullet.h(53,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\class_bullet.h(53,39): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Enemigo.h(105,65): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Enemigo.h(105,40): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Bala.h(38,20): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Juego.h(165,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Juego.h(172,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+  pantalla.cpp
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Entidad.h(37,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "pantalla.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Entidad.h(40,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "pantalla.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\class_bullet.h(53,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "pantalla.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\class_bullet.h(53,39): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "pantalla.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Enemigo.h(105,65): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "pantalla.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Enemigo.h(105,40): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "pantalla.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Bala.h(38,20): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "pantalla.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Juego.h(165,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "pantalla.cpp")
+  
+C:\Users\Luis Díaz\Downloads\Project18\Project18\Project18\Juego.h(172,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "pantalla.cpp")
+  
+  Generando código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3386,5): error MSB3821: No se puede procesar el archivo pantalla.resx porque está en Internet o en una zona restringida, o bien tiene la marca de la Web. Quite esta marca si desea procesar los archivos.
