@@ -32,9 +32,6 @@ Para ejecutar el juego, asegúrate de tener lo siguiente instalado:
 - **Disparos:** Presiona la tecla `Espacio` para disparar a los enemigos.
 - **Interacción con el ayudante:** Sigue las instrucciones que aparecen en la pantalla.
 
-## Capturas de Pantalla
-
-*(Incluye algunas capturas de pantalla del juego aquí para mostrar su interfaz y funcionalidad.)*
 
 ## Contribuciones
 
